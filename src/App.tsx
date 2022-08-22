@@ -5,6 +5,7 @@ import './App.css'
 
 export function App() {
   return (
+    // <Allotment defaultSizes={[100]}>
     <Allotment>
       <Allotment.Pane>
         <FocusOnMount />
